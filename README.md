@@ -1,2 +1,2 @@
 # notion-widgets
-Me Notion Widgets
+My Notion Widgets
